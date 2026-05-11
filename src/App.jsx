@@ -1,15 +1,15 @@
 import React from "react";
 
 // COMPONENTS
-import Header from "./components/Header";
-import Hero from "./components/Hero";
-import About from "./components/About";
-import Services from "./components/Services";
-import Gallery from "./components/Gallery";
-import Testimonials from "./components/Testimonials";
-import Contact from "./components/Contact";
-import Blog from "./components/Blog";
-import Footer from "./components/Footer";
+import Header from "./Components/Header";
+import Hero from "./Components/Hero";
+import About from "./Components/About";
+import Services from "./Components/Services";
+import Gallery from "./Components/Gallery";
+import Testimonials from "./Components/Testimonials";
+import Contact from "./Components/Contact";
+import Blog from "./Components/Blog";
+import Footer from "./Components/Footer";
 
 function App() {
   return (
